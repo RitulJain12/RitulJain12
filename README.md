@@ -44,3 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
 </a>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast;Web+Developer;Future+SDE&center=true&width=500&height=50">
+</p>
