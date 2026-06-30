@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10b981&height=220&section=header&text=RITUL%20JAIN&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=15" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10b981&height=220&section=header&text=RITUL%20JAIN&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=15" />
 </p>
 <p align="center">
 Aspiring Software Engineer building scalable systems, crafting beautiful UIs, and mastering advanced DSA.
@@ -132,6 +132,11 @@ Includes a Judge System, Problem Management, Authentication, and a personalized 
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=2000&color=10b981&center=true&vCenter=true&width=850&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i><br/>
+  <b>"The only way to do great work is to love what you do." — Steve Jobs</b>
 </p>
 
 <p align="center">
