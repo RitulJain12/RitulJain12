@@ -1,271 +1,139 @@
-<div align="center">
+<p align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10b981&height=220&section=header&text=RITUL%20JAIN&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=15" />
+</p>
+<p align="center">
+Aspiring Software Engineer building scalable systems, crafting beautiful UIs, and mastering advanced DSA.
+</p>
 
-# 👋 Hey, I'm Ritul Jain
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;Microservices+Architect;AI+Application+Builder;Future+Microsoft+Intern+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=RitulJain12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-# 🚀 About Me
-
-```cpp
-class RitulJain {
-public:
-    string role = "Software Engineer";
-    string college = "B.Tech CSE";
-    
-    vector<string> currentlyLearning = {
-        "Advanced DSA",
-        "System Design",
-        "Microservices",
-        "Cloud",
-        "AI Applications"
-    };
-
-    vector<string> techStack = {
-        "C++",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Docker",
-        "Redis",
-        "Git",
-        "Kubernetes"
-    };
-
-    string goal = "Crack Microsoft Internship (VAS)";
-};
-```
-
-- 🌱 Currently mastering **DSA, Full Stack Development & System Design**
-- 💻 Building **Production Level Applications**
-- 🚀 Passionate about **Backend Engineering & Scalable Systems**
-- 🧠 Strong in **Problem Solving & Competitive Programming**
-- 🎯 Preparing for **Microsoft, Google, Amazon and Product-Based Companies**
-- ⚡ Love turning ideas into real-world products
+<p align="center">
+  <a href="https://ritulsportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritul-jain-5326bb303">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rituljain12/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RitulJain12&label=Profile%20Views&color=10b981&style=for-the-badge" />
+</p>
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🚀 About Me
+
+Passionate engineering student focused on **Full Stack Development** and **System Design**. 
+I enjoy turning ideas into real-world products and preparing for top tech companies.
+
+* 💻 Currently mastering **DSA, Full Stack Development & System Design**
+* 🚀 Building **Production Level Applications** with modern tech stacks
+* ⚙️ Strong in **Problem Solving & Competitive Programming**
+* 🌱 Learning **Microservices Architecture & Cloud**
+* 🎯 Preparing for **Microsoft, Google, Amazon**
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🛒 Onkart
-
-Production-Level E-Commerce Platform
-
-### Features
-- Microservices Architecture
-- Dockerized Services
-- API Gateway
-- Authentication Service
-- Product Service
-- Order Service
-- Scalable Backend
-
-### Tech
-`Node.js` `Express` `MongoDB`
-`Docker` `Redis`
-`Microservices`
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Chatbot
-
-Intelligent Conversational Assistant
-
-### Features
-- OpenAI Integration
-- Context Awareness
-- Modern UI
-- Real Time Responses
-- API Based Architecture
-
-### Tech
-`React`
-`Node.js`
-`OpenAI API`
-`MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 💻 LeetCode Clone
-
-Coding Platform Inspired by LeetCode
-
-### Features
-- Code Execution
-- Judge System
-- Problem Management
-- Authentication
-- User Dashboard
-
-### Tech
-`React`
-`Node.js`
-`MongoDB`
-`Judge0 API`
-
-</td>
-
-<td width="50%">
-
-## 🧠 Evgenee Hackathon Project
-
-AI Powered Learning Platform
-
-### Features
-- Smart Recommendations
-- Interactive Dashboard
-- Responsive UI
-- Modern Architecture
-
-### Live Demo
-
-https://evgenee-hackathon.onrender.com
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RitulJain12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitulJain12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RitulJain12&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RitulJain12&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 📈 Contribution Graph & Snake Animation
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitulJain12/RitulJain12/output/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitulJain12/RitulJain12/output/dist/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RitulJain12/RitulJain12/output/dist/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
 ---
 
-# 🌍 Connect With Me
+## 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/ritul-jain-5326bb303">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts&theme=dark" />
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux&theme=dark" />
 
-<a href="https://github.com/RitulJain12">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis&theme=dark" />
 
-</div>
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github,vscode,postman,linux&theme=dark" />
+
+</p>
 
 ---
 
-<div align="center">
+## ⚡ Currently Shipping
 
-### 💡 "Consistency Beats Talent When Talent Doesn't Work Hard."
+```yaml
+Role: Software Engineer
+Focus: Full Stack Development & Advanced DSA
+Current Goal: Crack Microsoft Internship (VAS)
+Learning: Cloud, System Design, Microservices
+Status: Building & Learning
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%94%A5" />
+---
 
-</div>
+## 🗂 Featured Projects
+
+> *Consistency Beats Talent When Talent Doesn't Work Hard.*
+
+### 🛒 Onkart
+
+Production-Level E-Commerce Platform with a Microservices Architecture.
+
+Features include an API Gateway, Authentication Service, Product Service, Order Service, and a Scalable Backend using Dockerized Services.
+
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🤖 AI Chatbot
+
+Intelligent Conversational Assistant integrating OpenAI for real-time, context-aware responses.
+
+Built with an API-based architecture and a modern, responsive UI.
+
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=for-the-badge&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 💻 LeetCode Clone
+
+Coding Platform inspired by LeetCode with full Code Execution capabilities.
+
+Includes a Judge System, Problem Management, Authentication, and a personalized User Dashboard.
+
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RitulJain12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RitulJain12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=RitulJain12&theme=tokyonight&hide_border=true&border_radius=4.5" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=2000&color=10b981&center=true&vCenter=true&width=850&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:059669&height=100&section=footer" />
+</p>
