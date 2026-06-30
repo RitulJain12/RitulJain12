@@ -33,33 +33,33 @@ I enjoy turning ideas into real-world products and preparing for top tech compan
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitulJain12/RitulJain12/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitulJain12/RitulJain12/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RitulJain12/RitulJain12/output/dist/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts&theme=dark" />
+**Languages & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,java,spring,react,nextjs,nodejs,express,nestjs&theme=dark" />
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux&theme=dark" />
+<br/>
 
-**Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis&theme=dark" />
+**AI & System Architecture**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge)
+![HLD](https://img.shields.io/badge/System_Design_(HLD)-333333?style=for-the-badge)
+![LLD](https://img.shields.io/badge/Object_Oriented_Design_(LLD)-333333?style=for-the-badge)
 
-**DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github,vscode,postman,linux&theme=dark" />
+<br/>
+
+**Database & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,docker,kubernetes,aws,rabbitmq&theme=dark" />
+
+<br/>
+
+**Tools & Networking**<br/>
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-333333?style=for-the-badge&logo=socket.io&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </p>
 
@@ -71,7 +71,7 @@ I enjoy turning ideas into real-world products and preparing for top tech compan
 Role: Software Engineer
 Focus: Full Stack Development & Advanced DSA
 Current Goal: Crack Microsoft Internship (VAS)
-Learning: Cloud, System Design, Microservices
+Learning: Cloud, System Design, Microservices, AI/LangChain
 Status: Building & Learning
 ```
 
@@ -79,44 +79,95 @@ Status: Building & Learning
 
 ## 🗂 Featured Projects
 
-> *Consistency Beats Talent When Talent Doesn't Work Hard.*
+> *Every deployment teaches something a tutorial never could.*
 
-### 🛒 Onkart
+### 🚀 Astra Ai
 
-Production-Level E-Commerce Platform with a Microservices Architecture.
+Astraa AI is a smart, retrieval-augmented AI system designed to deliver accurate, context-aware, and reliable responses by combining the power of LangChain, RAG (Retrieval-Augmented Generation), and a Vector Database.
 
-Features include an API Gateway, Authentication Service, Product Service, Order Service, and a Scalable Backend using Dockerized Services.
+<div align="center">
+  <img src="https://ik.imagekit.io/rituls12/Screenshot%202026-05-01%20184158.png" width="700" style="border-radius: 8px;" />
+</div>
+<br/>
 
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge)
+
+🔗 [Live Demo](https://gpt-advnc-kdmx.onrender.com) &nbsp;|&nbsp; 🔗 [GitHub Repository](https://github.com/RitulJain12/GPT_advnc)
+
+---
+
+### 🔋 EvGenee
+
+EvGenee is an intelligent EV slot booking platform featuring an integrated AI voice agent. It allows users to book high-speed charging slots hands-free while speaking with the AI, save their fleet details, check station availability, and dispatch emergency roadside SOS.
+
+<div align="center">
+  <img src="https://api.microlink.io/?url=https://evgenee-hackathon.onrender.com/&screenshot=true&meta=false&embed=screenshot.url" width="700" style="border-radius: 8px;" />
+</div>
+<br/>
+
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&logoColor=white)
+![AI Voice](https://img.shields.io/badge/AI_Voice-333333?style=for-the-badge)
+
+🔗 [Live Demo](https://evgenee-hackathon.onrender.com/) &nbsp;|&nbsp; 🔗 [GitHub Repository](https://github.com/RitulJain12/EvGenee_Hackathon)
 
 ---
 
-### 🤖 AI Chatbot
+### 💻 NeatCode
 
-Intelligent Conversational Assistant integrating OpenAI for real-time, context-aware responses.
+NeatCode is a scalable LeetCode-style coding platform enhanced with AI assistance, designed to help developers practice DSA, solve problems efficiently, and get intelligent guidance, hints, and explanations in real-time all in a fast, production-ready environment.
 
-Built with an API-based architecture and a modern, responsive UI.
+<div align="center">
+  <img src="https://ik.imagekit.io/rituls12/Screenshot%202026-01-24%20190655.png" width="700" style="border-radius: 8px;" />
+</div>
+<br/>
 
 ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=for-the-badge&logo=openai&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
+![Judge0](https://img.shields.io/badge/Judge0-333333?style=for-the-badge)
 
 ---
 
-### 💻 LeetCode Clone
+### 🌐 Unir
 
-Coding Platform inspired by LeetCode with full Code Execution capabilities.
+Unir is a scalable LinkedIn-style professional networking application enhanced with AI-driven features that help users grow their careers smarter and faster. It enables professionals to connect, share posts, showcase skills, and leverage AI to improve visibility.
 
-Includes a Judge System, Problem Management, Authentication, and a personalized User Dashboard.
+<div align="center">
+  <img src="https://ik.imagekit.io/rituls12/Screenshot%202026-01-24%20191000.png" width="700" style="border-radius: 8px;" />
+</div>
+<br/>
 
 ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-333333?style=for-the-badge&logo=spring&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+---
+
+### 🛒 OnCart
+
+OnCart is a comprehensive e-commerce platform built on a robust microservices architecture using RabbitMQ and an API Gateway. It features an 'AI Buddy' that allows users to add products to their cart using NLP and recommends products based on dwell time.
+
+<div align="center">
+  <img src="https://api.microlink.io/?url=https://onkart-microservice.onrender.com&screenshot=true&meta=false&embed=screenshot.url" width="700" style="border-radius: 8px;" />
+</div>
+<br/>
+
+![Microservices](https://img.shields.io/badge/Microservices-333333?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-333333?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
+
+🔗 [Live Demo](https://onkart-microservice.onrender.com) &nbsp;|&nbsp; 🔗 [GitHub Repository](https://github.com/RitulJain12/Microservice_mega)
 
 ---
 
@@ -129,10 +180,6 @@ Includes a Judge System, Problem Management, Authentication, and a personalized 
 </p>
 
 ---
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=2000&color=10b981&center=true&vCenter=true&width=850&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%94%A5" />
-</p>
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i><br/>
