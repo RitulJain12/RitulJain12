@@ -38,7 +38,7 @@ I enjoy turning ideas into real-world products and preparing for top tech compan
 <p align="center">
 
 **Languages & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,java,spring,react,nextjs,nodejs,express,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,html,css,tailwind,react,nodejs,express&theme=dark" />
 
 <br/>
 
@@ -47,19 +47,17 @@ I enjoy turning ideas into real-world products and preparing for top tech compan
 ![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge)
 ![HLD](https://img.shields.io/badge/System_Design_(HLD)-333333?style=for-the-badge)
 ![LLD](https://img.shields.io/badge/Object_Oriented_Design_(LLD)-333333?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-333333?style=for-the-badge)
 
 <br/>
 
 **Database & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,docker,kubernetes,aws,rabbitmq&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,aws&theme=dark" />
 
 <br/>
 
-**Tools & Networking**<br/>
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-333333?style=for-the-badge&logo=socket.io&logoColor=white)
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </p>
 
@@ -86,7 +84,7 @@ Status: Building & Learning
 Astraa AI is a smart, retrieval-augmented AI system designed to deliver accurate, context-aware, and reliable responses by combining the power of LangChain, RAG (Retrieval-Augmented Generation), and a Vector Database.
 
 <div align="center">
-  <img src="https://ik.imagekit.io/rituls12/Screenshot%202026-05-01%20184158.png" width="700" style="border-radius: 8px;" />
+  <img src="https://api.microlink.io/?url=https://gpt-advnc-kdmx.onrender.com&screenshot=true&meta=false&embed=screenshot.url" width="700" style="border-radius: 8px;" />
 </div>
 <br/>
 
