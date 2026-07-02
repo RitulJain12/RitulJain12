@@ -172,9 +172,9 @@ OnCart is a comprehensive e-commerce platform built on a robust microservices ar
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RitulJain12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RitulJain12&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=RitulJain12&theme=tokyonight&hide_border=true&border_radius=4.5" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RitulJain12&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=ffffff&icon_color=10b981&hide_border=true&border_radius=4.5" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RitulJain12&layout=compact&bg_color=0d1117&title_color=10b981&text_color=ffffff&hide_border=true&border_radius=4.5" />
+  <img height="170" src="https://streak-stats.demolab.com?user=RitulJain12&background=0d1117&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=9ca3af&dates=9ca3af&hide_border=true&border_radius=4.5" />
 </p>
 
 ---
