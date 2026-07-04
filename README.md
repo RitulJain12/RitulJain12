@@ -2,7 +2,9 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10b981&height=220&section=header&text=RITUL%20JAIN&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=15" />
 </p>
 <p align="center">
-Aspiring Software Engineer building scalable systems, crafting beautiful UIs, and mastering advanced DSA.
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=20&center=true&vCenter=true&width=800&height=50&duration=3000&pause=1000&color=10B981&lines=Aspiring+Software+Engineer+👨‍💻;Building+Scalable+Systems+⚙️;Crafting+Beautiful+UIs+🎨;Mastering+Advanced+DSA+🚀;Turning+ideas+into+real-world+products+💡" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -16,6 +18,12 @@ Aspiring Software Engineer building scalable systems, crafting beautiful UIs, an
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=RitulJain12&label=Profile%20Views&color=10b981&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/rituljain12/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25500.gif" width="150" alt="LeetCode 500 Days Badge" />
+  </a>
 </p>
 
 ---
@@ -180,8 +188,9 @@ OnCart is a comprehensive e-commerce platform built on a robust microservices ar
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i><br/>
-  <b>"The only way to do great work is to love what you do." — Steve Jobs</b>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=16&center=true&vCenter=true&width=800&height=50&duration=4000&pause=2000&color=9CA3AF&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%94+Cory+House;%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs" alt="Typing SVG Quotes" />
+  </a>
 </p>
 
 <p align="center">
